@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nisargshah23/nodejsAssignment#readme",
   "dependencies": {
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "redis": "^5.5.6"
   }
 }
